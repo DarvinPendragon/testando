@@ -1,0 +1,53 @@
+.a1 {
+  height: 100vh;
+
+  display: grid;
+
+  background: url(../Components/Images/fundo-azul-escuro.jpg);
+
+  align-items: center;
+
+  justify-content: center;
+}
+
+.a1 button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.a2 {
+  width: 400px;
+  height: 22rem;
+  border-radius: 20px;
+  border: 5px solid white;
+  background-color: white;
+  box-shadow: rgb(173 216 230/ 15%) 0px 14px 28px,
+    rgb(173 216 230/ 18%) 0px 6px 6px;
+  justify-content: left;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 10px;
+}
+
+.a2 h2 span {
+  color: rgb(28, 82, 139);
+}
+
+.label1 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-style: italic;
+}
+
+.label2 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-style: italic;
+}
+
+.errortext {
+  color: red;
+  font-style: italic;
+  font-size: 1rem;
+}

@@ -1,0 +1,12 @@
+.searchinput {
+  width: 20rem;
+  height: 8%;
+  border-radius: 5rem;
+  border: none;
+  position: relative;
+  top: 10%;
+  right: -65%;
+  background-color: rgb(207 207 196);
+  padding: 10px;
+  box-shadow: rgb(173 216 230/ 15%) 0px 14px 28px;
+}

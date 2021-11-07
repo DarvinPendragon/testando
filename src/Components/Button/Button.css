@@ -1,0 +1,21 @@
+.button {
+  width: 12rem;
+  height: 2rem;
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background: rgb(28, 82, 139);
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 0.7rem;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.button:hover {
+  background: cornflowerblue;
+}
